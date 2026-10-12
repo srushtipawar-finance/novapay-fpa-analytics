@@ -1,0 +1,7 @@
+﻿Month,Month_Label,Month_Number,Budget_Subscription_Revenue,Budget_Transaction_Fee_Revenue,Budget_Premium_Revenue,Budget_Setup_Fee_Revenue,Budget_Total_Revenue,Budget_COGS,Budget_Operating_Expenses,Budget_EBITDA
+1-1-24,Jan-24,1,1100,1700,200,1200,4200,1300,36000,-33100
+2-1-24,Feb-24,2,1100,1800,200,0,3100,1350,36700,-34950
+3-1-24,Mar-24,3,1400,2100,250,500,4250,1500,38300,-35550
+4-1-24,Apr-24,4,1900,2400,400,700,5400,1750,40200,-36550
+5-1-24,May-24,5,2200,2800,450,500,5950,1950,41500,-37500
+6-1-24,Jun-24,6,2500,3200,600,700,7000,2200,42100,-37300

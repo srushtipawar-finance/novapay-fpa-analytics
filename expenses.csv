@@ -1,0 +1,37 @@
+﻿Month,Month_Label,Month_Number,Department,Expense_Category,Budget_Expense,Actual_Expense,Vendor,Cost_Type
+1-1-24,Jan-24,1,Sales,Payroll,12000,12000,Internal Payroll,Fixed
+1-1-24,Jan-24,1,Marketing,Marketing Spend,8000,9200,Google Ads,Variable
+1-1-24,Jan-24,1,Product,Cloud Hosting,4500,5100,AWS,Variable
+1-1-24,Jan-24,1,Customer Support,Customer Support Tools,2500,2400,Zendesk,Fixed
+1-1-24,Jan-24,1,Operations,Software,3000,3150,Salesforce,Fixed
+1-1-24,Jan-24,1,G&A,Rent,6000,6000,WeWork,Fixed
+2-1-24,Feb-24,2,Sales,Payroll,12000,12200,Internal Payroll,Fixed
+2-1-24,Feb-24,2,Marketing,Marketing Spend,8500,8700,Google Ads,Variable
+2-1-24,Feb-24,2,Product,Cloud Hosting,4700,5350,AWS,Variable
+2-1-24,Feb-24,2,Customer Support,Customer Support Tools,2500,2550,Zendesk,Fixed
+2-1-24,Feb-24,2,Operations,Software,3000,3200,Salesforce,Fixed
+2-1-24,Feb-24,2,G&A,Rent,6000,6000,WeWork,Fixed
+3-1-24,Mar-24,3,Sales,Payroll,12500,12600,Internal Payroll,Fixed
+3-1-24,Mar-24,3,Marketing,Marketing Spend,9000,10300,Google Ads,Variable
+3-1-24,Mar-24,3,Product,Cloud Hosting,5000,5750,AWS,Variable
+3-1-24,Mar-24,3,Customer Support,Customer Support Tools,2600,2650,Zendesk,Fixed
+3-1-24,Mar-24,3,Operations,Software,3200,3350,Salesforce,Fixed
+3-1-24,Mar-24,3,G&A,Professional Fees,4000,4600,Deloitte,Fixed
+4-1-24,Apr-24,4,Sales,Payroll,13000,13200,Internal Payroll,Fixed
+4-1-24,Apr-24,4,Marketing,Marketing Spend,9500,9800,Google Ads,Variable
+4-1-24,Apr-24,4,Product,Cloud Hosting,5200,6100,AWS,Variable
+4-1-24,Apr-24,4,Customer Support,Customer Support Tools,2700,2800,Zendesk,Fixed
+4-1-24,Apr-24,4,Operations,Software,3300,3450,Salesforce,Fixed
+4-1-24,Apr-24,4,G&A,Rent,6200,6200,WeWork,Fixed
+5-1-24,May-24,5,Sales,Payroll,13500,13750,Internal Payroll,Fixed
+5-1-24,May-24,5,Marketing,Marketing Spend,10000,11600,Google Ads,Variable
+5-1-24,May-24,5,Product,Cloud Hosting,5500,6500,AWS,Variable
+5-1-24,May-24,5,Customer Support,Customer Support Tools,2800,2900,Zendesk,Fixed
+5-1-24,May-24,5,Operations,Software,3500,3650,Salesforce,Fixed
+5-1-24,May-24,5,G&A,Rent,6200,6200,WeWork,Fixed
+6-1-24,Jun-24,6,Sales,Payroll,14000,14200,Internal Payroll,Fixed
+6-1-24,Jun-24,6,Marketing,Marketing Spend,10500,10800,Google Ads,Variable
+6-1-24,Jun-24,6,Product,Cloud Hosting,5800,7000,AWS,Variable
+6-1-24,Jun-24,6,Customer Support,Customer Support Tools,3000,3150,Zendesk,Fixed
+6-1-24,Jun-24,6,Operations,Software,3600,3800,Salesforce,Fixed
+6-1-24,Jun-24,6,G&A,Professional Fees,4200,4800,Deloitte,Fixed

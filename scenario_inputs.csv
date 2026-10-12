@@ -1,0 +1,4 @@
+﻿Scenario,Customer_Growth_Rate,Churn_Rate,Transaction_Volume_Growth,Pricing_Increase,CAC_Change,Payroll_Inflation,Marketing_Spend_Change
+Base Case,0.08,0.04,0.1,0.03,0.05,0.04,0.07
+Upside Case,0.12,0.02,0.15,0.05,0,0.03,0.1
+Downside Case,0.04,0.08,0.05,0,0.12,0.06,0.03
