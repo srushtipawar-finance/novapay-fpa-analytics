@@ -61,7 +61,6 @@ The project follows the monthly cycle an FP&A analyst runs: take raw revenue, ex
 │   └── Dashboard_Screenshots   Full view + Jan / Mar / Jun filtered views
 ├── 07_Presentation          NovaPay_FPA_Dashboard_Presentation.pptx
 ├── 08_Screenshots           Dashboard, presentation and report screenshots
-├── 09_ReadMe_Notes          Project notes
 └── README.md
 ```
 
