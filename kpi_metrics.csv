@@ -1,7 +1,0 @@
-﻿Month,Month_Label,Month_Number,Active_Customers,New_Customers,Lost_Customers,Churn_Rate,Average_Revenue_Per_Customer,CAC,Gross_Margin,Net_Revenue_Retention
-1-1-24,Jan-24,1,2,2,0,0,2093.5,4600,0.69,1
-2-1-24,Feb-24,2,2,0,0,0,1526,0,0.68,1.02
-3-1-24,Mar-24,3,3,1,0,0,1452.67,10300,0.66,1.03
-4-1-24,Apr-24,4,4,1,0,0,1645.75,9800,0.65,1.04
-5-1-24,May-24,5,5,1,0,0,1456,11600,0.64,1.02
-6-1-24,Jun-24,6,5,1,1,0.2,1786.2,10800,0.63,0.98
