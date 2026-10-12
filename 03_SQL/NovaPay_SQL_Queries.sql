@@ -1,5 +1,5 @@
 /* 
-AI-Enabled FP&A Command Center
+NovaPay FP&A Analytics & Management Reporting
 NovaPay Analytics - SQL Financial Reporting Queries
 */
 
